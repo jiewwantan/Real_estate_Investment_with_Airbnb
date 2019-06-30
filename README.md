@@ -22,6 +22,9 @@ Python libraries:
 
 The framework and source code are all included in a Jupyter notebook: ```airbnb_investment.ipynb```
 
+Data files are too big to be uploaded to Github. Please download your choices of city dataset here: 
+http://insideairbnb.com/get-the-data.html
+
 ## A synopsis of findings: 
 
 Some of the output visualizations from running the notebook. The visualizations shall facilitate the user in her real-estate investment decision making, particular when it comes to using the invested property to generate regular income from Airbnb marketplace.
