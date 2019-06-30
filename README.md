@@ -22,12 +22,12 @@ Python libraries:
 
 The framework and source code are all included in a Jupyter notebook: ```airbnb_investment.ipynb```
 
-The article that discuss the work and results of the analysis is in my Medium profile: 
-https://medium.com/@jiewwantan/exploring-real-estate-investment-opportunity-in-boston-and-seattle-9d89d0c9bed2
-
 ## A synopsis of findings: 
 
 Some of the output visualizations from running the notebook. The visualizations shall facilitate the user in her real-estate investment decision making, particular when it comes to using the invested property to generate regular income from Airbnb marketplace.
+
+The associated article in my Medium profile discusses the work and results of the analysis: 
+https://medium.com/@jiewwantan/exploring-real-estate-investment-opportunity-in-boston-and-seattle-9d89d0c9bed2
 
 [image1]: https://github.com/jiewwantan/Real_estate_Investment_with_Airbnb/blob/master/listing_distribution.png "Listing Distribution"
 ![Listing Distribution][image1]
