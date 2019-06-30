@@ -27,7 +27,7 @@ https://medium.com/@jiewwantan/exploring-real-estate-investment-opportunity-in-b
 
 ## A synopsis of findings: 
 
-The output as a result of running the notebook. 
+Some of the output visualizations from running the notebook. The visualizations shall facilitate the user in her real-estate investment decision making, particular when it comes to using the invested property to generate regular income from Airbnb marketplace.
 
 [image1]: https://github.com/jiewwantan/Real_estate_Investment_with_Airbnb/blob/master/listing_distribution.png "Listing Distribution"
 ![Listing Distribution][image1]
