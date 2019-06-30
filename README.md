@@ -1,5 +1,5 @@
 # Real Estate Investment with Airbnb
-### By Jiew Wan Tan on 29 June 2019
+
 
 This project sets to design a framework for property market analysis in a city with the objective of identifying property that generates rental income in Airbnb marketplace. 
 
