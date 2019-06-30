@@ -5,11 +5,14 @@ This project sets to design a framework for property market analysis in a city w
 
 ## Installation Guide
 
-Requires Python 3.x and Jupyter notebook 
+### Requirements 
+
+Python 3.x and Jupyter notebook 
 or 
 Anaconda for Python 3.x
 
-Required Python libraries:
+Python libraries:
+
 1. Pandas
 2. Re
 3. Matplotlib
