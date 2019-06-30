@@ -1,12 +1,15 @@
-# Real_estate_Investment_with_Airbnb
+# Real Estate Investment with Airbnb
 ### By Jiew Wan Tan on 29 June 2019
 
 This project sets to design a framework for property market analysis in a city with the objective of identifying property that generates rental income in Airbnb marketplace. 
 
-## Required libraries
+## Installation Guide
 
-Nothing complicated, the requirements are pretty standard: 
+Requires Python 3.x and Jupyter notebook 
+or 
+Anaconda for Python 3.x
 
+Required Python libraries:
 1. Pandas
 2. Re
 3. Matplotlib
@@ -20,6 +23,8 @@ The article that discuss the work and results of the analysis is in my Medium pr
 https://medium.com/@jiewwantan/exploring-real-estate-investment-opportunity-in-boston-and-seattle-9d89d0c9bed2
 
 ## A synopsis of findings: 
+
+The output as a result of running the notebook. 
 
 [image1]: https://github.com/jiewwantan/Real_estate_Investment_with_Airbnb/blob/master/listing_distribution.png "Listing Distribution"
 ![Listing Distribution][image1]
